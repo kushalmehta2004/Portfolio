@@ -14,7 +14,7 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 
 ## Live Demo
 
-Check out the live demo ([https://kushalmehta2004.github.io/PricingPanel/](https://kushalmehta2004.netlify.app/))).
+Check out the live demo [Here](https://kushalmehta2004.netlify.app/).
 
 
 # Technologies Used
