@@ -229,7 +229,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://scontent.fbom26-1.fna.fbcdn.net/v/t39.30808-6/405311447_753739176770946_1876580700455264403_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=O7wjnaRM8cwQ7kNvgEO0Lmf&_nc_ht=scontent.fbom26-1.fna&oh=00_AYBmIBV65uNs7ZL3zvibQKx6CqwzAG_CYv7iN515s8L-BA&oe=6668CBD4",
+    img: "https://linktr.ee/stwilfreds",
     school: "St. Wilfred's School Of Science and Commerce",
     date: "Apr 2021 - Apr 2022",
     grade: "85%",
