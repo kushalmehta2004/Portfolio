@@ -127,12 +127,12 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://static-00.iconduck.com/assets.00/postman-icon-497x512-beb7sy75.png",
+          "https://yt3.googleusercontent.com/XRzDTgEa9GybH_Uk21E9ri6_iYh-9gbyZzhiEBCnLjISgjTorjMiu7IwpChUMf2lLpEdX6ufDA=s900-c-k-c0x00ffffff-no-rj",
       },
       {
         name: "Adobe XD",
         image:
-          "https://camo.githubusercontent.com/c205ecbe12500177d102169d97bc1c17c545155fdf5ec78c08d54ac53e5b38c1/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61646f62652d78642e737667",
+          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS80OChMU7lMUMwU7CVu4ZJl1irvee4jmFfjw&s",
       },
       {
         name: "Figma",
@@ -146,21 +146,6 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/26121661/80df5b08.png",
-    role: "Software Developer",
-    company: "Augmentables",
-    date: "June 2024 - July 2024",
-    desc: "Creating augmented reality based applications.",
-    skills: [
-      "8thWall",
-      "C#",
-      "HTML",
-      "CSS",
-      "JavaScript"
-    ],
-    },
-  {
-    id: 1,
     img: "https://media.licdn.com/dms/image/v2/C4D0BAQEK9DqVvHq57A/company-logo_200_200/company-logo_200_200/0/1653396414387/puratechsolutions_logo?e=2147483647&v=beta&t=63NwavHuaYgZnWcXf4iNg6v5CXoqZLpGwZHQOcCQEYA",
     role: "React Developer",
     company: "Puratech Solutions Pvt. Ltd.",
@@ -176,6 +161,23 @@ export const experiences = [
       "MongoDB"
     ],
   }
+  
+  {
+    id: 1,
+    img: "https://d3v0px0pttie1i.cloudfront.net/uploads/user/avatar/26121661/80df5b08.png",
+    role: "Software Developer",
+    company: "Augmentables",
+    date: "June 2024 - July 2024",
+    desc: "Creating augmented reality based applications.",
+    skills: [
+      "8thWall",
+      "C#",
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    },
+  
 
 ];
 
