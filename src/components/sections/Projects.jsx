@@ -115,6 +115,16 @@ const Projects = ({ openModal, setOpenModal }) => {
             ALL
           </ToggleButton>
           <Divider />
+
+          <ToggleButton
+            active={toggle === "ml app"}
+            onClick={() => setToggle("ml app")}
+          >
+            Machine Learning
+          </ToggleButton>
+          <Divider />
+
+
           <ToggleButton
             active={toggle === "web app"}
             onClick={() => setToggle("web app")}
