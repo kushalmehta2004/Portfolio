@@ -226,7 +226,7 @@ export const projects = [
       "SQLAlchemy",
       "Machine Learning"
     ],
-    category: "web app",
+    category: "ml app",
     github: "https://github.com/kushalmehta2004/indian-stock-trader",
   },
   {
