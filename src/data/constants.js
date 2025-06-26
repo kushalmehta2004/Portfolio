@@ -160,7 +160,7 @@ export const experiences = [
       "JavaScript",
       "MongoDB"
     ],
-  }
+  },
   
   {
     id: 1,
@@ -176,7 +176,7 @@ export const experiences = [
       "CSS",
       "JavaScript"
     ],
-    },
+    }
   
 
 ];
