@@ -55,7 +55,6 @@ function App() {
               <Projects openModal={openModal} setOpenModal={setOpenModal} />
               <Wrapper>
                 <Education />
-                <Contact />
               </Wrapper>
               <Footer />
 
