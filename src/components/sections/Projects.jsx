@@ -134,7 +134,7 @@ const Projects = ({ openModal, setOpenModal }) => {
           <Divider />
           <ToggleButton
             active={toggle === "python"}
-            onClick={() => setToggle("android app")}
+            onClick={() => setToggle("python")}
           >
             Python
           </ToggleButton>
