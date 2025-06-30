@@ -243,7 +243,7 @@ export const projects = [
     description:
       "A full-stack application for trading in the Indian stock market (NSE/BSE) with real-time data, AI-powered trading signals, and automated trading capabilities.",
     image:
-      "https://raw.githubusercontent.com/kushalmehta2004/PortfolioWebsite/main/Screenshots/Screenshot%20(49).png",
+      "https://t4.ftcdn.net/jpg/02/74/89/87/360_F_274898790_jFbZaYzodY0byzMZ06Ka1zp6kG5sVZc5.jpg",
     tags: [
       "HTML",
       "CSS",
@@ -264,7 +264,7 @@ export const projects = [
     description:
       "This is a simple web-based Random Password Generator built using HTML, CSS, and JavaScript. The application allows users to generate secure, random passwords with customizable options such as length and character types (uppercase, lowercase, numbers, and special characters).This project demonstrates front-end development skills and JavaScript logic for generating random strings.",
     image:
-      "https://github.com/kushalmehta2004/Mini-Project/blob/main/mini%20project/assets/image.png",
+      "https://img.freepik.com/free-photo/computer-security-with-login-password-padlock_107791-16191.jpg?semt=ais_items_boosted&w=740",
     tags: [
       "HTML",
       "CSS",
