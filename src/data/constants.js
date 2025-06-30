@@ -290,6 +290,25 @@ export const projects = [
     github: "https://github.com/kushalmehta2004/ScoreKeeper",
   },
 
+
+  {
+    id: 4,
+    title: "ATM Management System",
+    description:
+      "Welcome to the ATM Management System project! This system is designed to handle common ATM operations such as deposit, withdraw, fast cash, mini statement, change PIN, balance inquiry, and account signup.",
+    image:
+      "https://www.idfcfirstbank.com/content/dam/idfcfirstbank/images/blog/finance/what-is-atm-717x404.jpg",
+    tags: [
+      "Java",
+      "AWT",
+      "MySQL",
+      "Gradle"
+    ],
+    category: ".NET",
+    github: "https://github.com/kushalmehta2004/ATM",
+  },
+  
+
   {
     id: 3,
     title: "Tax Calculator",
