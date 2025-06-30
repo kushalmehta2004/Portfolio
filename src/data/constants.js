@@ -291,6 +291,24 @@ export const projects = [
   },
 
   {
+    id: 3,
+    title: "Tax Calculator",
+    description:
+      "A website using HTML, CSS, JS and Bootstrap that allows for tax calculation based on a users input.",
+    image:
+      "https://github.com/kushalmehta2004/TaxCalculator/blob/main/Screenshot/SS1.jpg",
+    tags: [
+      "HTML",
+      "CSS",
+      "JS",
+      "Finance"
+    ],
+    category: "web app",
+    github: "https://github.com/kushalmehta2004/TaxCalculator",
+  },
+  
+  
+  {
     id: 2,
     title: "Tic-Tac-Toe",
     description:
