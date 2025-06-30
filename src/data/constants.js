@@ -291,6 +291,21 @@ export const projects = [
   },
 
   {
+    id: 2,
+    title: "Tic-Tac-Toe",
+    description:
+      "This project implements a simple Tic-Tac-Toe game using Python in a Jupyter Notebook. It is designed to provide an interactive experience for playing the classic game while also serving as a learning resource for understanding basic Python programming concepts.",
+    image:
+      "https://www.childtherapytoys.com/cdn/shop/products/TicTacToe_a935297e-0e43-4822-828f-ce3ea1dbd74e.jpg?v=1476447017",
+    tags: [
+      "Python",
+      "Jupyter Notebook"
+    ],
+    category: "python",
+    github: "https://github.com/kushalmehta2004/TicTacToe",
+  },
+  
+  {
     id: 1,
     title: "Hangman Game",
     description:
