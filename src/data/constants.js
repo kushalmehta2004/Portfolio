@@ -296,7 +296,7 @@ export const projects = [
     description:
       "A website using HTML, CSS, JS and Bootstrap that allows for tax calculation based on a users input.",
     image:
-      "https://github.com/kushalmehta2004/TaxCalculator/blob/main/Screenshot/SS1.jpg",
+      "https://private-user-images.githubusercontent.com/113028349/323310332-9c9871dd-7f00-4a69-a8f1-b50e81944030.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEyNzU0NDMsIm5iZiI6MTc1MTI3NTE0MywicGF0aCI6Ii8xMTMwMjgzNDkvMzIzMzEwMzMyLTljOTg3MWRkLTdmMDAtNGE2OS1hOGYxLWI1MGU4MTk0NDAzMC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYzMFQwOTE5MDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01YmQzNDQ3NGZjOWZhMDQ4MTgxZDRjYmQxYjRlY2ZiMmYyMzczY2JiMDg1OThjMTc0YjcyNDZhYmNkMmEyYzA0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.cdh_Ehch6ExleSMLVGF88mdzVQxqw3Ne1-Y0dMH5uo0",
     tags: [
       "HTML",
       "CSS",
