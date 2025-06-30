@@ -138,6 +138,14 @@ const Projects = ({ openModal, setOpenModal }) => {
           >
             Python
           </ToggleButton>
+          <Divider />
+          <ToggleButton
+            active={toggle === ".NET"}
+            onClick={() => setToggle(".NET")}
+          >
+            .NET
+          </ToggleButton>
+          
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === "all" &&
