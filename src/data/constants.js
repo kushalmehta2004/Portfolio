@@ -257,6 +257,23 @@ export const projects = [
     category: "ml app",
     github: "https://github.com/kushalmehta2004/indian-stock-trader",
   },
+
+  {
+  id: 10,
+    title: "Password Generator",
+    description:
+      "This is a simple web-based Random Password Generator built using HTML, CSS, and JavaScript. The application allows users to generate secure, random passwords with customizable options such as length and character types (uppercase, lowercase, numbers, and special characters).This project demonstrates front-end development skills and JavaScript logic for generating random strings.",
+    image:
+      "https://github.com/kushalmehta2004/Mini-Project/blob/main/mini%20project/assets/image.png",
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    category: "web app",
+    github: "https://github.com/kushalmehta2004/Mini-Project",
+  },
+
   {
     id: 9,
     title: "Score Keeper",
@@ -287,4 +304,3 @@ export const projects = [
     github: "https://github.com/kushalmehta2004/Hangman",
   },
 ];
-
