@@ -290,6 +290,25 @@ export const projects = [
     github: "https://github.com/kushalmehta2004/ScoreKeeper",
   },
 
+  {
+    id: 5,
+    title: "Disease Prediction",
+    description:
+      "This project is a disease prediction system using machine learning models to predict diseases based on symptoms. The system utilizes three different classifiers: Support Vector Machine (SVM), Gaussian Naive Bayes, and Random Forest, combined using an ensemble method to improve prediction accuracy.",
+    image:
+      "https://www.news-medical.net/images/news/ImageForNews_776422_17123165547518811.jpg",
+    tags: [
+      "Numpy",
+      "Pandas",
+      "Scikit-learn",
+      "Matplotlib",
+      "Seaborn",
+      "Scipy",
+      "Machine Learning"
+    ],
+    category: "ml app",
+    github: "https://github.com/kushalmehta2004/DiseasePrediction",
+  },
 
   {
     id: 4,
