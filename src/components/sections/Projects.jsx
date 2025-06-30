@@ -133,10 +133,10 @@ const Projects = ({ openModal, setOpenModal }) => {
           </ToggleButton>
           <Divider />
           <ToggleButton
-            active={toggle === "android app"}
+            active={toggle === "python"}
             onClick={() => setToggle("android app")}
           >
-            ANDROID APP'S
+            Python
           </ToggleButton>
         </ToggleButtonGroup>
         <CardContainer>
