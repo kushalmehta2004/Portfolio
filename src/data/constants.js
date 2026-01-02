@@ -233,7 +233,7 @@ export const education = [
     img: "https://upload.wikimedia.org/wikipedia/commons/9/9e/DJSCE_Logo.png",
     school: "Dwarkadas J. Sanghvi College Of Engineering",
     date: "Oct 2022 - Present",
-    grade: "CGPA: 8.3",
+    grade: "8.3",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Dwarkadas J. Sanghvi College Of Engineering, Mumbai. I have completed 6 semesters and have a CGPA of 8.3. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology - BTech, Information Technology",
   },
