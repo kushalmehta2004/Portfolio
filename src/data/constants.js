@@ -178,12 +178,12 @@ export const skills = [
       {
         name: "Gradio",
         image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS80OChMU7lMUMwU7CVu4ZJl1irvee4jmFfjw&s",
+          "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/gradio-color.png",
       },
       {
         name: "Docker",
         image:
-          "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
+          "https://www.clipartmax.com/png/middle/421-4211389_check-official-docker-logo.png",
       },
     ],
   },
