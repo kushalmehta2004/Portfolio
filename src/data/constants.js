@@ -132,7 +132,7 @@ export const skills = [
       {
         name: "AutoGen",
         image:
-          "https://cdn.freebiesupply.com/logos/large/2x/autogen-logo-black-and-white.png",
+          "https://cdn.worldvectorlogo.com/logos/autogen-50832.svg",
       },
     ],
   },
@@ -192,7 +192,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/C4D0BAQEK9DqVvHq57A/company-logo_200_200/company-logo_200_200/0/1653396414387/puratechsolutions_logo?e=2147483647&v=beta&t=63NwavHuaYgZnWcXf4iNg6v5CXoqZLpGwZHQOcCQEYA",
+    img: "https://media.licdn.com/dms/image/v2/D4D0BAQGxXge4rtKgYw/company-logo_200_200/company-logo_200_200/0/1688974244576/puratech_solutions_india_pvt_ltd_logo?e=1769040000&v=beta&t=vDaBjc65rFIpx9S4VDVn8kPxWnBum0CzTvWrc2xykDo",
     role: "React Developer",
     company: "Puratech Solutions Pvt. Ltd.",
     date: "June 2025 - July 2025",
