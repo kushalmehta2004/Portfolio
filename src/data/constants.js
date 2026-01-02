@@ -97,42 +97,42 @@ export const skills = [
       {
         name: "API's",
         image:
-          "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
+          "https://e7.pngegg.com/pngimages/482/922/png-clipart-application-programming-interface-logo-computer-programming-api-icon-text-logo.png",
       },
       {
         name: "n8n",
         image:
-          "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
+          "https://vectorseek.com/wp-content/uploads/2025/07/N8n-Ai-Logo-PNG-SVG-Vector.png",
       },
       {
         name: "Cursor",
         image:
-          "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
+          "https://miro.medium.com/v2/resize:fit:640/format:webp/0*zWCTHFNFdGAgSw2d",
       },
       {
         name: "OpenAI",
         image:
-          "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
+          "https://freebiehive.com/wp-content/uploads/2024/02/Open-AI-Black-Logo-Icon-PNG.jpg",
       },
       {
         name: "Ollama",
         image:
-          "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
+          "https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/ollama-logo.png",
       },
       {
         name: "CrewAI",
         image:
-          "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
+          "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/crewai-color.png",
       },
       {
         name: "LangGraph",
         image:
-          "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
+          "https://registry.npmmirror.com/@lobehub/icons-static-png/1.75.0/files/dark/langgraph-color.png",
       },
       {
         name: "AutoGen",
         image:
-          "https://s3-alpha.figma.com/hub/file/1481185752/fa4cd070-6a79-4e1b-b079-8b9b76408595-cover.png",
+          "https://cdn.freebiesupply.com/logos/large/2x/autogen-logo-svg-vector.svg",
       },
     ],
   },
