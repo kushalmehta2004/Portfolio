@@ -192,7 +192,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/D4D0BAQGxXge4rtKgYw/company-logo_200_200/company-logo_200_200/0/1688974244576/puratech_solutions_india_pvt_ltd_logo?e=1769040000&v=beta&t=vDaBjc65rFIpx9S4VDVn8kPxWnBum0CzTvWrc2xykDo",
+    img: "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/128x128/1efa9ba0bfde951c541a91f8fbd38447",
     role: "React Developer",
     company: "Puratech Solutions Pvt. Ltd.",
     date: "June 2025 - July 2025",
