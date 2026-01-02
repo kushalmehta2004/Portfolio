@@ -117,7 +117,7 @@ export const skills = [
       {
         name: "Ollama",
         image:
-          "https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/ollama-logo.png",
+          "https://images.seeklogo.com/logo-png/59/1/ollama-logo-png_seeklogo-593420.png",
       },
       {
         name: "CrewAI",
@@ -132,7 +132,7 @@ export const skills = [
       {
         name: "AutoGen",
         image:
-          "https://cdn.freebiesupply.com/logos/large/2x/autogen-logo-svg-vector.svg",
+          "https://cdn.freebiesupply.com/logos/large/2x/autogen-logo-black-and-white.png",
       },
     ],
   },
