@@ -12,6 +12,9 @@ import Projects from "./components/sections/Projects";
 import Footer from "./components/sections/Footer";
 import ProjectDetails from "./components/Dialog/ProjectDetails";
 import { useState } from "react";
+import React from 'react';
+import './index.css';
+import ChatWidget from './components/ChatWidget';
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -63,6 +66,7 @@ function App() {
                   setOpenModal={setOpenModal}
                 />
               )}
+              <ChatWidget />
             </div>
           </AnimatePresence>
         </Body>
@@ -72,3 +76,4 @@ function App() {
 }
 
 export default App;
+
